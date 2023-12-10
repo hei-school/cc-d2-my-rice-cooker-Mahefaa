@@ -1,0 +1,22 @@
+{
+  "name": "cc-d2-my-rice-cooker-mahefaa",
+  "version": "1.0.0",
+  "description": "vary-cooker, a rice cooker manager",
+  "main": "core/RiceCooker.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hei-school/cc-d2-my-rice-cooker-Mahefaa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hei-school/cc-d2-my-rice-cooker-Mahefaa/issues"
+  },
+  "homepage": "https://github.com/hei-school/cc-d2-my-rice-cooker-Mahefaa#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
